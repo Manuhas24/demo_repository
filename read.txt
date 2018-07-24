@@ -1,2 +1,0 @@
-# Todo: Learn Git
-1. Now in Git - Review Changes
