@@ -1,0 +1,22 @@
+From 86260d949853f10e248a751844ba7e2eacbd1717 Mon Sep 17 00:00:00 2001
+From: Chintoo <Chintoo007@gmail.com>
+Date: Tue, 24 Jul 2018 14:33:18 +0530
+Subject: [PATCH] Added 3 Features
+
+---
+ success.txt | 3 +++
+ 1 file changed, 3 insertions(+)
+
+diff --git a/success.txt b/success.txt
+index 7840cd4..64480bc 100644
+--- a/success.txt
++++ b/success.txt
+@@ -1 +1,4 @@
+ Added New Features Successfully
++1. Feature 1
++2. Feature 2
++3. Feature 3
+\ No newline at end of file
+-- 
+2.14.3 (Apple Git-98)
+
